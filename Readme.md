@@ -1,10 +1,15 @@
 
 ## Challenge Requirements
 Design and implement a protocol that allows “pairing” of two fictional devices similarly to how a headset might be paired with a phone. The protocol should include features such as:
+
 A hello message for initialization
+
 An address association between the paired devices that is stored for the duration of the pairing
+
 A regular beacon message that transmits one arbitrary 8-bit sensor value every 10 seconds while the devices are paired
+
 A method for confirming to the sender that the message was successfully received by the receiver
+
 
 
 ## Synopsis
