@@ -1,4 +1,4 @@
-/* 75F Coding Challenge
+/* Device Pairing Coding Challenge
  SecondDevice
  Mohamed Mohamud
  Jan 22nd 2018  */
